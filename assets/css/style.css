@@ -29,7 +29,7 @@ a {
 }
 
 a:hover {
-  color: #585858;
+  color: #0c0392;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -40,7 +40,7 @@ a:hover {
 
 .color-a {
   text-decoration: none;
-  color: #585858;
+  color: #0c0392;
 }
 
 .color-d {
@@ -99,7 +99,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #585858;
+  background-color: #0c0392;
 }
 
 .overlay-mf {
@@ -168,7 +168,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #585858;
+  background-color: #0c0392;
   margin: 0 auto;
 }
 
@@ -176,7 +176,7 @@ a:hover {
 .title-box-2 {
   margin-bottom: 3rem;
   text-align: center;
-  border-bottom: 3px solid #585858;
+  border-bottom: 3px solid #0c0392;
 }
 
 .title-left {
@@ -220,12 +220,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #585858;
+  box-shadow: 0 0 0 3px #0c0392;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #585858;
+  background-color: #0c0392;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -249,7 +249,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #585858;
+  color: #0c0392;
   margin-right: 10px;
 }
 
@@ -262,7 +262,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #585858;
+  box-shadow: 0 0 0 10px #0c0392;
   display: block;
 }
 
@@ -307,7 +307,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #585858;
+  background-color: #0c0392;
   opacity: 0.7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -331,7 +331,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #585858;
+  background: #0c0392;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -345,7 +345,7 @@ a:hover {
 }
 
 .back-to-top:hover {
-  background: #585858;
+  background: #0c0392;
   color: #fff;
 }
 
@@ -372,7 +372,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #585858;
+  border-top: 6px solid #0c0392;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -419,14 +419,14 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #585858;
+  background-color: #0c0392;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
   text-decoration: none;
-  background-color: #585858;
+  background-color: #0c0392;
   color: #fff;
   border-color: #cde1f8;
 }
@@ -594,7 +594,7 @@ a:hover {
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover > a {
-  color: #585858;
+  color: #0c0392;
 }
 
 .navbar .dropdown:hover > ul {
@@ -696,7 +696,7 @@ a:hover {
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover > a {
-  color: #585858;
+  color: #0c0392;
 }
 
 .navbar-mobile .getstarted {
@@ -730,7 +730,7 @@ a:hover {
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover > a {
-  color: #585858;
+  color: #0c0392;
 }
 
 .navbar-mobile .dropdown > .dropdown-active {
@@ -810,7 +810,7 @@ a:hover {
 
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #585858;
+  color: #0c0392;
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
@@ -867,7 +867,7 @@ a:hover {
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #7a7a7a;
+  background-color: #0c0392;
 }
 
 /*--------------------------------------------------------------
@@ -884,7 +884,7 @@ a:hover {
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #585858;
+  background-color: #0c0392;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
@@ -984,12 +984,12 @@ a:hover {
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #585858;
+  color: #0c0392;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #585858;
+  color: #0c0392;
 }
 
 .work-content .w-like .num-like {
@@ -1021,11 +1021,11 @@ a:hover {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #585858;
+  border: 1px solid #0c0392;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #585858;
+  background-color: #0c0392;
 }
 
 .portfolio-details .portfolio-info {
@@ -1092,7 +1092,7 @@ a:hover {
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #585858;
+  color: #0c0392;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -1201,7 +1201,7 @@ a:hover {
 
 .php-email-form input:focus,
 .php-email-form textarea:focus {
-  border-color: #585858;
+  border-color: #0c0392;
 }
 
 .php-email-form input {
@@ -1214,7 +1214,7 @@ a:hover {
 }
 
 .php-email-form button[type="submit"] {
-  background: #585858;
+  background: #0c0392;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1222,7 +1222,7 @@ a:hover {
 }
 
 .php-email-form button[type="submit"]:hover {
-  background: #585858;
+  background: #0c0392;
 }
 
 @-webkit-keyframes animate-loading {
@@ -1271,7 +1271,7 @@ a:hover {
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #585858;
+  background-color: #0c0392;
   border-radius: 4px;
 }
 
@@ -1339,7 +1339,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #585858;
+  border-left: 4px solid #0c0392;
   margin-top: 1rem;
 }
 
@@ -1349,7 +1349,7 @@ a:hover {
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #585858;
+  color: #0c0392;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -1357,7 +1357,7 @@ a:hover {
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #585858;
+  border-left: 4px solid #0c0392;
   padding: 18px;
   font-style: italic;
 }
@@ -1394,7 +1394,7 @@ a:hover {
 }
 
 .box-comments .list-comments a {
-  color: #585858;
+  color: #0c0392;
 }
 
 .box-comments .list-comments span {
@@ -1410,7 +1410,7 @@ a:hover {
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #585858;
+  border-left: 5px solid #0c0392;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1427,7 +1427,7 @@ a:hover {
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #585858;
+  background-color: #0c0392;
   top: 20px;
 }
 
@@ -1438,8 +1438,8 @@ a:hover {
 }
 
 .sidebar-search .btn-search {
-  background-color: #585858;
-  border-color: #585858;
+  background-color: #0c0392;
+  border-color: #0c0392;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1447,7 +1447,7 @@ a:hover {
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #585858;
+  background-color: #0c0392;
   padding: 0.2rem 0.6rem;
   margin-bottom: 0.5rem;
   border-radius: 15px;
@@ -1554,7 +1554,7 @@ footer .credits a {
   display: grid;
   place-items: center;
   box-shadow: 50px 10px #3f3f3f;
-  border: 1px solid #585858;
+  border: 1px solid #0c0392;
 }
 
 .contact__form {
@@ -1568,7 +1568,7 @@ footer .credits a {
 }
 .contact__input__feilds {
   width: 1005;
-  border: 1px solid #585858;
+  border: 1px solid #0c0392;
 }
 .contact__form__form {
   width: 100%;
@@ -1604,7 +1604,7 @@ input[type="email"] {
   border-radius: 40%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #585858;
+  box-shadow: 0 0 0 3px #0c0392;
   transition: all 500ms ease;
 }
 
