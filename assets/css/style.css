@@ -49,7 +49,7 @@ a:hover {
 
 .color-text-a {
   text-decoration: none;
-  color: #4e4e4e;
+  color: #0c0392;
 }
 
 .box-shadow,
@@ -331,7 +331,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0c0392;
+  background: #555557;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -426,7 +426,7 @@ a:hover {
 
 .button-a {
   text-decoration: none;
-  background-color: #0c0392;
+  background-color: #75155528;
   color: #fff;
   border-color: #cde1f8;
 }
@@ -979,7 +979,7 @@ a:hover {
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0078ff;
+  color: #0c0392;
 }
 
 .work-content .w-like {
