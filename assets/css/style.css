@@ -1481,11 +1481,9 @@ footer .credits a {
 
 /* about info update */
 .about {
-  border: 1px solid red;
   background-color: white;
 }
 .about__info {
-  border: 1px solid black;
   display: flex;
   justify-content: space-around;
   background-color: white;
@@ -1554,12 +1552,10 @@ footer .credits a {
   display: grid;
   place-items: center;
   box-shadow: 50px 10px #3f3f3f;
-  border: 1px solid #0c0392;
 }
 
 .contact__form {
-  width: 80%;
-  border: 1px solid rgb(235, 13, 124);
+  width: 90%;
   background-color: #ffffff;
   border-radius: 20px;
 
@@ -1568,15 +1564,12 @@ footer .credits a {
 }
 .contact__input__feilds {
   width: 1005;
-  border: 1px solid #0c0392;
 }
 .contact__form__form {
   width: 100%;
 }
 
 .contact__form__social {
-  border: 1px solid rgb(32, 2, 20);
-
   text-align: center;
 }
 
@@ -1613,4 +1606,9 @@ input[type="email"] {
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
+}
+
+.github {
+  margin-bottom: 10px;
+  margin-left: 8px;
 }
