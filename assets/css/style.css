@@ -450,6 +450,7 @@ a:hover {
 }
 
 #header .logo {
+  width: 320px;
   font-size: 28px;
   margin: 0;
   padding: 0;
@@ -1629,10 +1630,17 @@ input[type="email"] {
 .top-btn {
   background-color: rgb(255, 255, 255);
   font-size: medium;
+  width: 200px;
+}
+.back {
+  width: 100px !important;
 }
 .top-btn:hover {
-  background-color: rgb(201, 201, 201);
+  background-color: rgb(215, 215, 215);
 }
 .fixed-top {
   background-color: black;
+}
+.about__project_p {
+  text-align: justify;
 }
